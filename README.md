@@ -33,6 +33,7 @@ Unlike traditional motion detection, this project focuses on object integrity mo
 ---
 
 🏗️ System Architecture
+
 `
 Camera → Python OpenCV → Object Detection → Serial Communication → Arduino UNO → LED + Buzzer Alarm
 `
@@ -75,6 +76,7 @@ Camera → Python OpenCV → Object Detection → Serial Communication → Ardui
 ---
 
 📦 Installation
+
 `bash
 pip install opencv-python imutils pyserial
 `
@@ -136,7 +138,8 @@ pip install opencv-python imutils pyserial
 ---
 
 📂 Repository Structure
-`
+
+
 AI-Object-Tampering-Detection-System
 │
 ├── python-code
